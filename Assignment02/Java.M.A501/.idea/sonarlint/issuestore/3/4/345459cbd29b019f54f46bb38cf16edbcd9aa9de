@@ -1,0 +1,34 @@
+
+b
+java:S2095;"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ğ­Ï
+N	java:S106"9Replace this use of System.out or System.err by a logger.(³¼¥Ó
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Î”­Œ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ä§ğ§
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(¨öüÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(¨öüÿÿÿÿ
+F
+java:S1172K"0Remove this unused method parameter "customers".(ÙÛ¸ı
+Q	java:S125S"<This block of commented-out lines of code should be removed.(£İ¥Æ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(Ğ¡—ÿÿÿÿÿ
+h
+java:S3776m"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(éŒ±Ñ
+O
+java:S1854|"9Remove this useless assignment to local variable "found".(·”íŒ
+U
+java:S1854†"9Remove this useless assignment to local variable "found".(¥’†¦ûÿÿÿÿ
+B
+java:S1172m",Remove this unused method parameter "phone".(éŒ±Ñ
+S
+java:S1117n"=Rename "customers" which hides the field declared at line 15.(öøñŸ
+N	java:S106p"9Replace this use of System.out or System.err by a logger.(úÛäÿ
+S	java:S106t"9Replace this use of System.out or System.err by a logger.(Ì¿ĞÎúÿÿÿÿ
+<
+java:S1125v"'Remove the unnecessary boolean literal.(¹®’+
+E
+java:S1481w"*Remove this unused "found" local variable.(Íªäúÿÿÿÿ
+N	java:S106z"9Replace this use of System.out or System.err by a logger.(ÌÌ
+N	java:S106{"9Replace this use of System.out or System.err by a logger.(¥¬›±
+S	java:S106~"9Replace this use of System.out or System.err by a logger.(ƒ»øÏÿÿÿÿÿ
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(˜…¬Üøÿÿÿÿ
+Y	java:S125ƒ"<This block of commented-out lines of code should be removed.(€¢°8ÔÅ—ä0
+O	java:S106‡"9Replace this use of System.out or System.err by a logger.(„§•
